@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{927C915C-2F65-40BD-9019-49009A3EDEE0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ITDAngularJS/Startup.cs">
+    <Files>
+      <File FileName="ITDAngularJS/Views/Contact/Index.cshtml" Line="24" Column="57" />
+      <File FileName="ITDAngularJS/Views/Home/Application.cshtml" Line="44" Column="18" />
+      <File FileName="ITDAngularJS/Views/Home/Report.cshtml" Line="6" Column="7" />
+      <File FileName="ITDAngularJS/appsettings.json" Line="13" Column="22" />
+      <File FileName="ITDAngularJS/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="ITDAngularJS/EmailProperties.cs" Line="1" Column="1" />
+      <File FileName="ITDAngularJS/EmailService.cs" Line="9" Column="133" />
+      <File FileName="ITDAngularJS/Program.cs" Line="2" Column="36" />
+      <File FileName="ITDAngularJS/Startup.cs" Line="22" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ITDAngularJS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

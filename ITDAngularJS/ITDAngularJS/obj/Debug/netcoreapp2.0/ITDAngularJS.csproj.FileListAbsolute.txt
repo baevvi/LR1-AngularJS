@@ -1,0 +1,33 @@
+c:/users/ekaterina/source/repos/ITDAngularJS/ITDAngularJS/bin/Debug/netcoreapp2.0/ITDAngularJS.deps.json
+c:/users/ekaterina/source/repos/ITDAngularJS/ITDAngularJS/bin/Debug/netcoreapp2.0/ITDAngularJS.runtimeconfig.json
+c:/users/ekaterina/source/repos/ITDAngularJS/ITDAngularJS/bin/Debug/netcoreapp2.0/ITDAngularJS.runtimeconfig.dev.json
+c:/users/ekaterina/source/repos/ITDAngularJS/ITDAngularJS/bin/Debug/netcoreapp2.0/ITDAngularJS.dll
+c:/users/ekaterina/source/repos/ITDAngularJS/ITDAngularJS/obj/Debug/netcoreapp2.0/ITDAngularJS.csprojResolveAssemblyReference.cache
+c:/users/ekaterina/source/repos/ITDAngularJS/ITDAngularJS/obj/Debug/netcoreapp2.0/ITDAngularJS.csproj.CoreCompileInputs.cache
+c:/users/ekaterina/source/repos/ITDAngularJS/ITDAngularJS/obj/Debug/netcoreapp2.0/ITDAngularJS.AssemblyInfoInputs.cache
+c:/users/ekaterina/source/repos/ITDAngularJS/ITDAngularJS/obj/Debug/netcoreapp2.0/ITDAngularJS.AssemblyInfo.cs
+c:/users/ekaterina/source/repos/ITDAngularJS/ITDAngularJS/bin/Debug/netcoreapp2.0/ITDAngularJS.pdb
+c:/users/ekaterina/source/repos/ITDAngularJS/ITDAngularJS/obj/Debug/netcoreapp2.0/ITDAngularJS.dll
+c:/users/ekaterina/source/repos/ITDAngularJS/ITDAngularJS/obj/Debug/netcoreapp2.0/ITDAngularJS.pdb
+/Users/Evgenia/Downloads/ITDAngularJS/ITDAngularJS/bin/Debug/netcoreapp2.0/ITDAngularJS.deps.json
+/Users/Evgenia/Downloads/ITDAngularJS/ITDAngularJS/bin/Debug/netcoreapp2.0/ITDAngularJS.runtimeconfig.json
+/Users/Evgenia/Downloads/ITDAngularJS/ITDAngularJS/bin/Debug/netcoreapp2.0/ITDAngularJS.runtimeconfig.dev.json
+/Users/Evgenia/Downloads/ITDAngularJS/ITDAngularJS/bin/Debug/netcoreapp2.0/ITDAngularJS.dll
+/Users/Evgenia/Downloads/ITDAngularJS/ITDAngularJS/bin/Debug/netcoreapp2.0/ITDAngularJS.pdb
+/Users/Evgenia/Downloads/ITDAngularJS/ITDAngularJS/obj/Debug/netcoreapp2.0/ITDAngularJS.csprojResolveAssemblyReference.cache
+/Users/Evgenia/Downloads/ITDAngularJS/ITDAngularJS/obj/Debug/netcoreapp2.0/ITDAngularJS.csproj.CoreCompileInputs.cache
+/Users/Evgenia/Downloads/ITDAngularJS/ITDAngularJS/obj/Debug/netcoreapp2.0/ITDAngularJS.AssemblyInfoInputs.cache
+/Users/Evgenia/Downloads/ITDAngularJS/ITDAngularJS/obj/Debug/netcoreapp2.0/ITDAngularJS.AssemblyInfo.cs
+/Users/Evgenia/Downloads/ITDAngularJS/ITDAngularJS/obj/Debug/netcoreapp2.0/ITDAngularJS.dll
+/Users/Evgenia/Downloads/ITDAngularJS/ITDAngularJS/obj/Debug/netcoreapp2.0/ITDAngularJS.pdb
+/Users/Evgenia/Documents/ УрФУ/Четвертый курс/Разработка интернет-технологий/ITDAngularJS/ITDAngularJS/bin/Debug/netcoreapp2.0/ITDAngularJS.deps.json
+/Users/Evgenia/Documents/ УрФУ/Четвертый курс/Разработка интернет-технологий/ITDAngularJS/ITDAngularJS/bin/Debug/netcoreapp2.0/ITDAngularJS.runtimeconfig.json
+/Users/Evgenia/Documents/ УрФУ/Четвертый курс/Разработка интернет-технологий/ITDAngularJS/ITDAngularJS/bin/Debug/netcoreapp2.0/ITDAngularJS.runtimeconfig.dev.json
+/Users/Evgenia/Documents/ УрФУ/Четвертый курс/Разработка интернет-технологий/ITDAngularJS/ITDAngularJS/bin/Debug/netcoreapp2.0/ITDAngularJS.dll
+/Users/Evgenia/Documents/ УрФУ/Четвертый курс/Разработка интернет-технологий/ITDAngularJS/ITDAngularJS/bin/Debug/netcoreapp2.0/ITDAngularJS.pdb
+/Users/Evgenia/Documents/ УрФУ/Четвертый курс/Разработка интернет-технологий/ITDAngularJS/ITDAngularJS/obj/Debug/netcoreapp2.0/ITDAngularJS.csprojResolveAssemblyReference.cache
+/Users/Evgenia/Documents/ УрФУ/Четвертый курс/Разработка интернет-технологий/ITDAngularJS/ITDAngularJS/obj/Debug/netcoreapp2.0/ITDAngularJS.csproj.CoreCompileInputs.cache
+/Users/Evgenia/Documents/ УрФУ/Четвертый курс/Разработка интернет-технологий/ITDAngularJS/ITDAngularJS/obj/Debug/netcoreapp2.0/ITDAngularJS.AssemblyInfoInputs.cache
+/Users/Evgenia/Documents/ УрФУ/Четвертый курс/Разработка интернет-технологий/ITDAngularJS/ITDAngularJS/obj/Debug/netcoreapp2.0/ITDAngularJS.AssemblyInfo.cs
+/Users/Evgenia/Documents/ УрФУ/Четвертый курс/Разработка интернет-технологий/ITDAngularJS/ITDAngularJS/obj/Debug/netcoreapp2.0/ITDAngularJS.dll
+/Users/Evgenia/Documents/ УрФУ/Четвертый курс/Разработка интернет-технологий/ITDAngularJS/ITDAngularJS/obj/Debug/netcoreapp2.0/ITDAngularJS.pdb
